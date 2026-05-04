@@ -21,3 +21,7 @@ The bottom 2 buttons are for dot and dash.
 While the butoons on the right are for Enter and Space!  
 The one on the right I might change as per convinience to other functions too in future.
 
+### AI Usage
+I used AI for microcontroller purposes and schematic verification.
+This usage can be confirmed in the Lapse Recordings.
+
