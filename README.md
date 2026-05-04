@@ -11,9 +11,9 @@ This is a PCB having an OLED screen with mainly 3 features we can say:
 
 - Lastly we have a secret screen where if someone inputs 'GAME' in the Word Decode, it pushes to a simple game!
 
-![PCB-Front](<Screenshot From 2026-05-01 19-20-34.png>)
+![PCB-Front](<./Images/Screenshot From 2026-05-01 19-20-34.png>)
 
-![PCB-Back](<Screenshot From 2026-05-01 19-20-45.png>)
+![PCB-Back](<./Images/Screenshot From 2026-05-01 19-20-45.png>)
 
 This is what the PCB looks like!  
 
